@@ -1,6 +1,6 @@
 - 👋 Hi, It's me @roixy
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Node/Express js,GraphQl,Nosql database,Docker,Competitive programming
+- 🌱 I’ve been learning Node/Express,GraphQl,Nosql database,Docker,Competitive programming
 - 💞️ I’m looking to collaborate on back end part of web app
 - 📫 
 
