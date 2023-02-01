@@ -1,6 +1,6 @@
 <h1 align="center">Hi,It is me Roixy</h1>
 <h3 align="center">Interested in Human and web3</h3>
-<img src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" alt="coding" width="400" height="400" align="right" margin="0px" />
+<img src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" alt="coding" width="200" height="200"  margin="0px" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rixyo" alt="rixyo" /></a> </p>
 
