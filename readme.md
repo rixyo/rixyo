@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rony</h1>
 <h3 align="center">Your crazed Programmer</h3>
-<img src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" alt="coding" width="400" align="middle" />
+<img src="https://media.giphy.com/media/6CMWn0pl3y96h2iJrY/giphy.gif" alt="coding" width="400" margin-left="15px" margin-right="15px" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rixyo" alt="rixyo" /></a> </p>
 
