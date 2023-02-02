@@ -1,10 +1,6 @@
 <h1 align="center">Hi,It is me Rony</h1>
 <h3 align="center">Interested in Human and web3</h3>
 
-  <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" align="right" alt="coding" display= "block"
-  margin-left= auto
-  margin-right= auto   
- />
 
 
 
