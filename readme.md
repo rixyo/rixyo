@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Roixy</h1>
+[<h1 align="center">Hi 👋, I'm Roixy</h1>
 <h3 align="center">Interested in Web3 & Human</h3>
+<img src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e4773ayat2pkjvtvv6zij74dpqn92ecw5q9kcvlo5bm&rid=giphy.gif&ct=g" margin="0px auto" height="100%"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rixyo" alt="rixyo" /></a> </p>
 
@@ -16,3 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rixyo&show_icons=true&locale=en&layout=compact" alt="rixyo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rixyo&show_icons=true&locale=en" alt="rixyo" /></p>
+](https://github.com/rixyo/SociUs)
