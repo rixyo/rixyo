@@ -4,7 +4,8 @@
   <img align="left" src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e4773ayat2pkjvtvv6zij74dpqn92ecw5q9kcvlo5bm&rid=giphy.gif&ct=g" width="400" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rixyo" alt="rixyo" /></a> </p>
 
-- 🔭 I’m currently working on **SociUs** <a href="https://github.com/rixyo/SociUs target="_blank">Link</a>
+- 🔭 I’m currently working on **SociUs** 
+<a href="https://github.com/rixyo/SociUs target="_blank">Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
