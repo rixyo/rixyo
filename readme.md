@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roixy</h1>
 <div style="margin:0px auto" >
-  <img align="center" src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e4773ayat2pkjvtvv6zij74dpqn92ecw5q9kcvlo5bm&rid=giphy.gif&ct=g"  height="100%" />
+  <img align="right" src="https://media2.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e4773ayat2pkjvtvv6zij74dpqn92ecw5q9kcvlo5bm&rid=giphy.gif&ct=g"  height="100%" />
 </div>
 
 <h3 align="center">Interested in Web3 & Human</h3>
