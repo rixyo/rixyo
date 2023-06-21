@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roixy</h1>
-<img src="https://res.cloudinary.com/dvntuynpq/image/upload/v1687365308/COPY_ME_TEMPLATE_-_NO_TEXT_3_o6t1qr.png" alt="banner"/>
+<img src="https://res.cloudinary.com/dvntuynpq/image/upload/v1687365565/COPY_ME_TEMPLATE_-_NO_TEXT_4_vuschl.png" alt="banner"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rixyo" alt="rixyo" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
