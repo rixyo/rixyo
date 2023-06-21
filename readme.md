@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roixy</h1>
 <h3 align="center">Interested In Cloud Native Application & Human</h3>
+<img scr="https://res.cloudinary.com/dvntuynpq/image/upload/v1687365084/COPY_ME_TEMPLATE_-_NO_TEXT_2_f1btgq.png" alt="banner"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rixyo" alt="rixyo" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
